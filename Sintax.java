@@ -1,14 +1,13 @@
 
-package javaapplication3;
+package sintax;
 import java.util.Scanner;
 /**
- *
  * @author Camille
  */
-public class JavaApplication3 {
+public class Sintax {
 
     public static void main(String[] args) {
-        // TODO code application logic here
+        
        java.util.Scanner t = new java.util.Scanner(System.in);
        
        System.out.println("Enter two numbers:");
