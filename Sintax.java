@@ -2,6 +2,7 @@
 package sintax;
 import java.util.Scanner;
 /**
+*
  * @author Camille
  */
 public class Sintax {
